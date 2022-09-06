@@ -1,1 +1,1 @@
-# Labs_Vis-o_Computacional
+# Labs_Visão_Computacional
